@@ -1,19 +1,23 @@
 Daniel Ramírez de la Garza
 Rodrigo Espinosa Quintana
-12°2
+12°2 
 
 1 En tus palabras, ¿Qué es internet?  
 R: es una red en la que nos permite tener acceso a la sociedad por el medio digital.
 2 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+R:Cable de par trenzado. Cable coaxial. Fibra óptica. Radiofrecuencias. Microondas. Infrarrojos. Símplex. Semi-dúple
 3 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
 R: en sociedades a mi parecer, ya que hay diferentes páginas con un fin diferente y un lenguaje de código distinto
 4 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+R: Cuando usas Spotify, usas sus servidores (en donde está toda su librería de canciones). Entonces, cuando reproduces una canción, la reproduces desde su servidor.
 5 Describe los protocolos que existen en internet, en específico HTTP y HTML
 R: http es poara los hypertextos en el internet y html el lenguaje para codificar páginas web
 6 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+R:La encriptación es una forma de asegurar tus documentos en digitales. De cierta forma, les pones un "candado" y con LA LLAVE puedes volver a abrir el documento, revelando su contenido.
 7 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
 R: Usar contraseñas seguras, no repetirlas en distintos sitios y cambiarlas frecuentemente. Puede apoyarse en una aplicación de administración de contraseñas para mantener sus contraseñas protegidas.
 Mantener todo el software actualizado. Es particularmente importante mantener actualizado el sistema operativo y el software
 de seguridad en Internet. Los hackers mayormente usan los puntos vulnerables conocidos en el software 
 para obtener acceso al sistema. Aplicar parches a esos puntos vulnerables disminuye la probabilidad de que usted se convierta en una víctima.
 8 ¿Cómo funciona la búsqueda de google?
+R:El objetivo de los algoritmos de Google es proporcionar a cada intención de búsqueda la respuesta más adecuada. Es decir, ofrecer al usuario el resultado que mejor se ajusta a lo que busca, y que, en definitiva, mejor experiencia le puede aportar.
